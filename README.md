@@ -2,7 +2,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 💫 **About Me**  
-I am an emerging cybersecurity professional skilled in using SIEM tools and network analyzers, committed to protecting organizations from evolving digital threats. With a foundation in monitoring and analyzing security events, I create innovative solutions to strengthen security postures and counter cybercriminal tactics. Guided by integrity and ethical responsibility, I am dedicated to safeguarding sensitive data and contributing to a resilient cybersecurity landscape.
+I am an aspiring cybersecurity professional with a strong foundation in Python programming and problem-solving skills, dedicated to protecting organizations from evolving digital threats. My core values of integrity and ethical responsibility drive my commitment to safeguarding sensitive information and ensuring the security goals of the organizations I serve. I am particularly passionate about utilizing automation and analytics to create innovative solutions that stay ahead of cybercriminal tactics, and I look forward to contributing to a resilient cybersecurity landscape.
 
 👨‍💻 **My Projects**  
 Explore my repositories to see my work in action:  
