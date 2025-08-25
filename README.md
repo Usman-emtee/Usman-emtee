@@ -30,8 +30,7 @@ All of my projects are available at [yourusername](https://github.com/usman-emte
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 🔝 **Top Contributed Repo**  
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=usman-emtee&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+[![Top Repos](https://img.shields.io/badge/Top%20Repos-5-blue?style=flat&logo=github)]
 ---
 <!--
 **Usman-emtee/Usman-emtee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
