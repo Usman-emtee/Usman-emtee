@@ -9,7 +9,7 @@ Explore my repositories to see my work in action:
 - **[SIEM Log Analyzer](https://github.com/yourusername/siem-log-analyzer)**: A Python-based tool for parsing and visualizing SIEM logs to detect suspicious activity.  
 - **[Network Traffic Monitor](https://github.com/yourusername/network-traffic-monitor)**: A script leveraging Wireshark and Python to analyze network packets and identify potential threats.  
 - **[Incident Response Playbook](https://github.com/yourusername/incident-response-playbook)**: A documented framework for responding to cybersecurity incidents, aligned with NIST guidelines.  
-All of my projects are available at [yourusername](https://github.com/yourusername).
+All of my projects are available at [yourusername](https://github.com/usman-emtee).
 
 🛠️ **Skills & Tools**  
 - **SIEM Tools**: Splunk, ELK Stack, Chronicle  
@@ -19,8 +19,8 @@ All of my projects are available at [yourusername](https://github.com/youruserna
 - **Other**: Linux, SQL, Threat Intelligence, Incident Response
 
 📊 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&hide_border=false&include_all_commits=true)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=usman-emtee&theme=tokyonight&hide_border=false&include_all_commits=true)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=usman-emtee&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 🌐 **Connect With Me**  
 - [LinkedIn](https://linkedin.com/in/usman-mt)   
@@ -30,7 +30,7 @@ All of my projects are available at [yourusername](https://github.com/youruserna
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 🔝 **Top Contributed Repo**  
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=yourusername&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=usman-emtee&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 <!--
