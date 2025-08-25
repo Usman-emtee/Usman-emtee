@@ -1,11 +1,11 @@
-## Hi there 👋
 # 👋 Welcome to My GitHub Profile!
 
 💫 **About Me**  
 I am an aspiring cybersecurity professional with a strong foundation in Python programming and problem-solving skills, dedicated to protecting organizations from evolving digital threats. My core values of integrity and ethical responsibility drive my commitment to safeguarding sensitive information and ensuring the security goals of the organizations I serve. I am particularly passionate about utilizing automation and analytics to create innovative solutions that stay ahead of cybercriminal tactics, and I look forward to contributing to a resilient cybersecurity landscape.
 
 👨‍💻 **My Projects**  
-Explore my repositories to see my work in action:  
+Explore my repositories to see my work in action:
+- **[Botium Toys Compliance Audit](https://github.com/Usman-emtee/Botium-Toys-Compliance-Audit)**: Conducted a NIST CSF-based audit for a fictional toy company, assessing compliance with PCI DSS and GDPR, identifying risks/fines, and recommending mitigations.
 - **[SIEM Log Analyzer](https://github.com/yourusername/siem-log-analyzer)**: A Python-based tool for parsing and visualizing SIEM logs to detect suspicious activity.  
 - **[Network Traffic Monitor](https://github.com/yourusername/network-traffic-monitor)**: A script leveraging Wireshark and Python to analyze network packets and identify potential threats.  
 - **[Incident Response Playbook](https://github.com/yourusername/incident-response-playbook)**: A documented framework for responding to cybersecurity incidents, aligned with NIST guidelines.  
@@ -23,9 +23,8 @@ All of my projects are available at [yourusername](https://github.com/youruserna
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 🌐 **Connect With Me**  
-- [LinkedIn](https://linkedin.com/in/yourusername)  
-- [Personal Website/Blog](https://yourwebsite.com)  
-- Email: your.email@example.com
+- [LinkedIn](https://linkedin.com/in/usman-mt)   
+- Email: usmanemtee@gmail.com
 
 ✍️ **Random Dev Quote**  
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
