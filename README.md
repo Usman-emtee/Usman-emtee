@@ -6,6 +6,7 @@ I am an aspiring cybersecurity professional with a strong foundation in Python p
 👨‍💻 **My Projects**  
 Explore my repositories to see my work in action:
 - **[Botium Toys Compliance Audit](https://github.com/Usman-emtee/Botium-Toys-Compliance-Audit)**: Conducted a NIST CSF-based audit for a fictional toy company, assessing compliance with PCI DSS and GDPR, identifying risks/fines, and recommending mitigations.
+- - **[DDoS Incident Report](https://github.com/Usman-emtee/DDoS-Incident-Report)**: Analyzed a DDoS attack for a multimedia company using NIST CSF, identifying gaps, estimating risks, and recommending improvements.
 - **[SIEM Log Analyzer](https://github.com/yourusername/siem-log-analyzer)**: A Python-based tool for parsing and visualizing SIEM logs to detect suspicious activity.  
 - **[Network Traffic Monitor](https://github.com/yourusername/network-traffic-monitor)**: A script leveraging Wireshark and Python to analyze network packets and identify potential threats.  
 - **[Incident Response Playbook](https://github.com/yourusername/incident-response-playbook)**: A documented framework for responding to cybersecurity incidents, aligned with NIST guidelines.  
