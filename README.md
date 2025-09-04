@@ -12,7 +12,7 @@ Explore my repositories to see my work in action:
 - **[SIEM Log Analyzer](https://github.com/yourusername/siem-log-analyzer)**: A Python-based tool for parsing and visualizing SIEM logs to detect suspicious activity.  
 - **[Network Traffic Monitor](https://github.com/yourusername/network-traffic-monitor)**: A script leveraging Wireshark and Python to analyze network packets and identify potential threats.  
 - **[Incident Response Playbook](https://github.com/yourusername/incident-response-playbook)**: A documented framework for responding to cybersecurity incidents, aligned with NIST guidelines.  
-All of my projects are available at [yourusername](https://github.com/usman-emtee).
+All of my projects are available at [usman-emtee](https://github.com/usman-emtee).
 
 🛠️ **Skills & Tools**  
 - **SIEM Tools**: Splunk, ELK Stack, Chronicle  
