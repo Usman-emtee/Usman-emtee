@@ -10,6 +10,7 @@ Explore my repositories to see my work in action:
 - **[File System Permissions Audit](https://github.com/Usman-emtee/File-System-Permissions-Audit)**: Audited file system permissions for a research team, ensuring authorized access and lab-based analysis.
 - **[SQL Security Investigation](https://github.com/Usman-emtee/SQL-Security-Investigation)**: Investigated login attempts using SQL filters to detect security issues, supported by lab screenshots.
 - **[Vulnerability Assessment: E-Commerce](https://github.com/Usman-emtee/E-commerce-Vulnerability-Assessment)**: Conducted a NIST SP 800-115-based assessment of an open database server, identifying risks and proposing remediation.
+- **[Incident Handler’s Journal](https://github.com/usman-emtee/Incident-Handlers-Journal)**: Analyzed ransomware and malicious file incidents using Wireshark, tcpdump, and VirusTotal.
 - **[SIEM Log Analyzer](https://github.com/yourusername/siem-log-analyzer)**: A Python-based tool for parsing and visualizing SIEM logs to detect suspicious activity.  
 - **[Network Traffic Monitor](https://github.com/yourusername/network-traffic-monitor)**: A script leveraging Wireshark and Python to analyze network packets and identify potential threats.  
 - **[Incident Response Playbook](https://github.com/yourusername/incident-response-playbook)**: A documented framework for responding to cybersecurity incidents, aligned with NIST guidelines.  
